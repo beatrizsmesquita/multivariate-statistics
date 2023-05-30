@@ -1,0 +1,13 @@
+@Book{article1,
+  author = {International Energy Agency (IEA)},
+  title  = {C{O2} emissions from fuel combustion - {H}ighlights},
+  year   = {2021},
+}
+
+@Article{article2,
+  author = {United States Environmental Protection Agency (EPA)},
+  title  = {Sources of {G}reenhouse {G}as {E}missions},
+  year   = {2021},
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}
